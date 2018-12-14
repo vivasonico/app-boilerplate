@@ -1,16 +1,16 @@
 {
   "main": "node_modules/expo/AppEntry.js",
-  "name": "BeTranki",
+  "name": "BamBoilerPlate",
   "version": "0.0.1",
-  "description": "Tu BeTranki",
+  "description": "BamBoilerPlate",
   "homepage": "",
   "repository": {
     "type": "git",
     "url": ""
   },
   "author": {
-    "name": "Alejandro Vivas",
-    "email": "alejandro.vivas.a@gmail.com"
+    "name": "vivasonico",
+    "email": "you wanna know, you send me a message"
   },
   "scripts": {
     "start": "expo start",
